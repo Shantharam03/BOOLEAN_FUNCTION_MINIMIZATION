@@ -45,7 +45,7 @@ Developed by: RegisterNumber:*/
 **RTL**
 
 **Timing Diagram**
-
+![image](https://github.com/user-attachments/assets/c5c84f34-9158-4387-9409-1b4b5c5b7e4a)
 **Result:**
 
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
